@@ -1,6 +1,3 @@
-// Name: Bhavya Patel
-// Student ID: 110065852
-
 import javax.swing.*;
 import javax.swing.event.MouseInputListener;
 
